@@ -11,7 +11,7 @@ Blockchain technology exemplifies all three components of the CIA triad (confide
 | Audience | CS1 or later. |
 | Difficulty | Beginner. |
 | Strengths | Hands-on experience with transactions on a blockchain. |
-| Weaknesses | Limited scope and dependence on a specific wallet ([MetaMask][metamask]) and blockchain network ([Rinkeby][rinkeby]). |
+| Weaknesses | Limited scope, and dependence on a specific wallet ([MetaMask][metamask]) and blockchain network ([Rinkeby][rinkeby]). |
 | Dependencies | Internet-connected computer with suitable browser ([Chrome][chrome], [Firefox][firefox], etc.), [MetaMask][metamask], and a wallet for use with the [Rinkeby Test Network][rinkeby]. |
 | Variants | Transactions may be carried out on other blockchains, with other wallets, and in other contexts (contracts, etc.). |
 
