@@ -18,11 +18,11 @@ Blockchain technology exemplifies all three components of the CIA triad (confide
 ## Assignment Instructions
 1. Open a browser with [MetaMask][metamask] and log into a wallet for use with the [Rinkeby Test Network][rinkeby]. For this lab, we will be using test currency which holds no real-world value. The first thing we need to do is fund our wallet.  
     ![MetaMask](screenshots/1.png)
-2. Open MetaMask. In the top right, you should see a dropdown with 'Main Ethereum Network'. Click this and select 'Rinkeby Test Network'.  
+2. Open MetaMask. In the top right, you should see a dropdown with `Main Ethereum Network`. Click this and select `Rinkeby Test Network`.  
     ![Network selection](screenshots/2.png)
-3. Click on the 'DEPOSIT' button under your balance and in the overlay that appears, click 'GET ETHER' under Test Faucet (you may have to scroll down).  
+3. Click on the `DEPOSIT` button under your balance and in the overlay that appears, click `GET ETHER` under Test Faucet (you may have to scroll down).  
     ![Deposit](screenshots/3.png)
-4. A new tab sould open at [https://www.rinkeby.io/#stats][rinkeby]. On the left border of that page, click the middle button labeled 'Crypto Faucet'.  
+4. A new tab sould open at [https://www.rinkeby.io/#stats][rinkeby]. On the left border of that page, click the middle button labeled `Crypto Faucet`.  
     ![Rinkeby](screenshots/4a.png)  
     ![Crypto Faucet](screenshots/4b.png)
 5. For the next step, Twitter is recommended, but you may use any listed option which works for you. Follow the instructions on the page you are redirected to in order to get your wallet funded with test currency. (If using Twitter, be sure to use the link to the tweet itself, which you pasted your wallet's public address into.)
