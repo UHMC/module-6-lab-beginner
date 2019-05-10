@@ -36,7 +36,8 @@ Blockchain technology exemplifies all three components of the CIA triad (confide
         * When you are done interacting with the interface, click `close` in the top right, or click `Save` at the bottom if you want to continue with a custom gas price (note that an incredibly low price, e.g. 0, may result in your transaction taking an indeterminate amount of time to go through, if ever, but it has been done before).
 12. If everything looks good, go ahead and click `Next`.
 13. On the next screen, verify the amount you entered and then click `Confirm`.
-    * In about a minute (assuming other settings were left at defaults), you should see a confirmation popup, and the send transaction should appear in your account history in MetaMask.
+    * In about a minute (assuming other settings were left at defaults), you should see a confirmation popup, and the send transaction should appear as confirmed in your account history in MetaMask.
+    * Until then, you should see a pending transaction.
 14. To view your transaction's details, click on the transaction in your transaction history in MetaMask (it should say "Sent Ether").
     * To the right of `Details`, click the arrow pointing up and to the right to view the transaction on [Etherscan][etherscan].
 15. To the right of the `Transaction Hash` field on the Etherscan page, you can click the copy symbol to allow you to share the transaction hash with your partner, and you may similarly search [Etherscan][etherscan] with the transaction hash they give you, allowing both you and your partner to see proof of the transactions you each made.
