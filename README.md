@@ -1,4 +1,4 @@
-# Module 6b - Beginner Lab: Transactions
+# Module 6 - Beginner Lab: Transactions
 
 ## Background
 Blockchain technology exemplifies all three components of the CIA triad (confidentiality, integrity, and availability), though the two more obviously implemented components are integrity and availability. The primary use of blockchains to-date has been the tamper-resistant, decentralized storage of transaction information (as opposed to general information, but this is changing). Hence, we will explore transactions in this lab.
