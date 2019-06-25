@@ -15,7 +15,7 @@ Blockchain technology exemplifies all three components of the CIA triad (confide
 | Dependencies | Internet-connected computer with suitable browser ([Chrome][chrome], [Firefox][firefox], etc.), [MetaMask][metamask], and a wallet for use with the [Rinkeby Test Network][rinkeby]. |
 | Variants | Transactions may be carried out on other blockchains, with other wallets, and in other contexts (contracts, etc.). |
 
-## Assignment Instructions
+## Assignment Instructions (20 Minutes)
 1. Open a browser with [MetaMask][metamask] and log into a wallet for use with the [Rinkeby Test Network][rinkeby]. For this lab, we will be using test currency which holds no real-world value. The first thing we need to do is fund our wallet.  
     ![MetaMask](screenshots/1.png)
 2. Open MetaMask. In the top right, you should see a dropdown with `Main Ethereum Network`. Click this and select `Rinkeby Test Network`.  
